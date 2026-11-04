@@ -1,10 +1,17 @@
 {
-  "seq": 55,
   "title": "ICT Job Market Skills Analytics for South Australia",
-  "slug": "ict-job-market-skills-analytics-for-south-australia",
+  "old_slug": "ict-job-market-skills-analytics-for-south-australia",
+  "slug": "sa-ict-job-skills-analytics",
   "folder": "Ict_Job_Market_Skills_Analytics_For_South",
   "kind": "analytics",
-  "body_words": 243,
+  "body_words": 316,
+  "source": "MICT Academic",
   "project_id": "Academic Project 14",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
